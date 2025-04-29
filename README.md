@@ -1,6 +1,6 @@
 ## Project ESHOP dengan Laravel 10
 
-ESHOP adalah sebuah toko online tentang penjualan makanan tradisional khas indonesia yang dibuat dengan framework Laravel 10 & Matrix Admin Bootstrap 5.
+ESHOP adalah sebuah toko online tentang penjualan makanan dan minuman tradisional khas indonesia yang dibuat dengan framework Laravel 10 & Matrix Admin Bootstrap 5.
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js)](https://skillicons.dev)
 ### Diperlukan:
