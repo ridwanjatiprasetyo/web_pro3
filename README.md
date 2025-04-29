@@ -16,6 +16,13 @@ git clone https://github.com/ridwanjatiprasetyo/web_pro3.git
 ### Download ZIP
 [Link](https://github.com/ridwanjatiprasetyo/web_pro3/archive/refs/heads/master.zip)
 
+### Setup Database
+-Masuk ke phpmyadmin\
+-Buat database baru dengan nama db_tokoonline\
+-Pilih database db_tokoonline lalu pilih menu import\
+-Browse file db_tokoonline.sql\
+-Lalu tekan import
+
 ### Setup Aplikasi
 Masuk ke folder tokoonline 
 ```bash
