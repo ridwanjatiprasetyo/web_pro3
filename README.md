@@ -29,6 +29,11 @@ Masuk ke folder tokoonline
 cd tokoonline
 ```
 
+Jalankan composer
+```bash
+composer install
+```
+
 Jalankan dengan perintah:
 ```bash
 php artisan serve
