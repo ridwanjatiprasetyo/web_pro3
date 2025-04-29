@@ -50,7 +50,7 @@ misal: http://127.0.0.1:8000/backend/login
 ```bash
   http://[HOST]:[PORT]/beranda
 ```
-misal: http://127.0.0.1:8000/
+misal: http://127.0.0.1:8000/beranda
 
 ### Akun
 Admin:\
