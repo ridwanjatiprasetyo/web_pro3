@@ -35,13 +35,13 @@ php artisan serve
 ```
 
 ## Penggunaan
-#Halaman dashboard admin
+<b>Halaman dashboard admin:</b>
 ```bash
   http://[HOST]:[PORT]/backend/login
 ```
 misal: http://127.0.0.1:8000/backend/login
 
-#Halaman utama
+<b>Halaman utama:</b>
 ```bash
   http://[HOST]:[PORT]/beranda
 ```
